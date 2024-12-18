@@ -6,7 +6,7 @@ import pickle
 #LOCAL_DIR = "your_local_directory_to_save_results" # Replace with your path
 #TOKEN = "your_dwave_token" # Replace with your token
 HAMILTONIAN_FILE = "data_20.pkl"
-EMBEDDING_DIR = "embedding_files"
+EMBEDDING_DIR = "data_files"
 RESULTS_FILE = f"{LOCAL_DIR}/results.pkl"
 
 # Parameters
