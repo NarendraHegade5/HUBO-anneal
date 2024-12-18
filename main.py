@@ -7,7 +7,7 @@ import pickle
 # ----------------------------
 
 # Uncomment and set these variables with your actual paths and token
-# LOCAL_DIR = "your_local_directory_to_save_results"  # Replace with your desired path
+LOCAL_DIR = "your_local_directory_to_save_results"  # Replace with your desired path
 TOKEN = "your_dwave_token"  # Replace with your D-Wave API token
 
 HAMILTONIAN_FILE = "data_20.pkl"
